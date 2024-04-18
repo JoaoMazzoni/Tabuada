@@ -14,9 +14,7 @@ if (n1 > 0)
         tabuada = i;
         resultado = n1 * tabuada;
         Console.WriteLine("{0} X {1} = {2} ", n1, tabuada, resultado);
-
     }
-
 }
 
 else 
